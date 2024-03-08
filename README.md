@@ -1,11 +1,11 @@
-mdtopdf
-=======
+markdowntopdf
+=============
 
-mdtopdf converts Markdown files to PDF with syntax hightlighting for fenced code
+markdowntopdf converts Markdown files to PDF with syntax hightlighting for fenced code
 
 Usage
 -----
 
 ```sh
-mdtopdf input.md
+markdowntopdf input.md
 ```

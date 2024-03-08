@@ -23,8 +23,8 @@ def get_styles(anchor):
     }
 
 
-CODE_STYLES = get_styles("mdtopdf.pygments-css")
-MAIN_CSS = get_styles("mdtopdf.css")
+CODE_STYLES = get_styles("markdowntopdf.pygments-css")
+MAIN_CSS = get_styles("markdowntopdf.css")
 
 
 def default_template(body):

@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "mdtopdf"
-version = "0.1.0"
+name = "markdowntopdf"
+version = "0.1.1"
 description = "Convert Markdown files to PDF with syntax highlighting for fenced code"
 authors = ["Fernando López <fernando.e.lopez@gmail.com>"]
 license = "MIT"
@@ -17,4 +17,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-mdtopdf = 'mdtopdf.mdtopdf:run'
+markdowntopdf = 'markdowntopdf.markdowntopdf:run'
